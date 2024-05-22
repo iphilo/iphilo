@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, I'm [Philo] 👋
 
-<!--
-**iphilo/iphilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 1. About Me
 
-Here are some ideas to get you started:
+- 💻 Python enthusiast, especially in script development.
+- 🤖 Interested in AI-generated content.
+- 🚀 Sci-fi enthusiast.
+- 📚 Passionate about knowledge management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 2. Contact Me
+
+- Twitter: [i_philos](https://x.com/i_philos)
+- Email: [zjcfan@hotmail.com](mailto:zjcfan@hotmail.com)
+
+---
+
+*This README was generated with ❤️ by [Philo]
